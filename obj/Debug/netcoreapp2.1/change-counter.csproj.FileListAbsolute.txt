@@ -1,0 +1,11 @@
+C:\Users\Stephen\workspaces\change-counter\bin\Debug\netcoreapp2.1\change-counter.deps.json
+C:\Users\Stephen\workspaces\change-counter\bin\Debug\netcoreapp2.1\change-counter.runtimeconfig.json
+C:\Users\Stephen\workspaces\change-counter\bin\Debug\netcoreapp2.1\change-counter.runtimeconfig.dev.json
+C:\Users\Stephen\workspaces\change-counter\bin\Debug\netcoreapp2.1\change-counter.dll
+C:\Users\Stephen\workspaces\change-counter\bin\Debug\netcoreapp2.1\change-counter.pdb
+C:\Users\Stephen\workspaces\change-counter\obj\Debug\netcoreapp2.1\change-counter.csprojAssemblyReference.cache
+C:\Users\Stephen\workspaces\change-counter\obj\Debug\netcoreapp2.1\change-counter.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\workspaces\change-counter\obj\Debug\netcoreapp2.1\change-counter.AssemblyInfoInputs.cache
+C:\Users\Stephen\workspaces\change-counter\obj\Debug\netcoreapp2.1\change-counter.AssemblyInfo.cs
+C:\Users\Stephen\workspaces\change-counter\obj\Debug\netcoreapp2.1\change-counter.dll
+C:\Users\Stephen\workspaces\change-counter\obj\Debug\netcoreapp2.1\change-counter.pdb
